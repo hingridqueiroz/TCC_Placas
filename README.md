@@ -131,7 +131,6 @@ Para PyTorch com CUDA, instale antes o wheel adequado ao seu driver (ex.:
 `pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121`).
 
 `requirements.txt` inclui também o Jupyter, usado para executar o notebook exploratório.
-A exportação ONNX/Hailo não é mais parte deste repositório.
 ---
 
 ## Preparação do dataset
