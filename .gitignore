@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Datasets e resultados (não versionar)
+data/
+data_novo/
+models/
+results_train/
+results_test/
+resultados_mobilenetv2/
+logs/
+export/
+
+# Arquivos gerados pelas análises
+*.csv
+*.tex
+*.png
+*.jpg
+*.jpeg
+*.pth
+*.pt
+*.onnx
+*.hef
+*.har
+*.npy
+*.json
+!models/fe_metadata.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
