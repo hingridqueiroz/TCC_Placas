@@ -130,7 +130,6 @@ pip install -r requirements.txt
 Para PyTorch com CUDA, instale antes o wheel adequado ao seu driver (ex.:
 `pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121`).
 
-`requirements.txt` inclui também o Jupyter, usado para executar o notebook exploratório.
 ---
 
 ## Preparação do dataset
