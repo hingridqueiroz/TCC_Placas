@@ -9,11 +9,6 @@ seaborn>=0.12
 tqdm>=4.65
 Pillow>=10.0
 
-# Export / deploy (opcional)
-onnx>=1.14
-onnxruntime>=1.16
-onnxsim>=0.4
-
 # Notebook
 jupyter>=1.0
 ipykernel>=6.0
